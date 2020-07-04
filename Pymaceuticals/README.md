@@ -1,4 +1,4 @@
-# Pandas
+# Matplotlib
 
 The project in this folder was an assignment completed for The George Washington University Data Analysis and Visualization Bootcamp.
 
